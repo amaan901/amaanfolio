@@ -15,7 +15,7 @@
   font-size: 25px;
 }
 #amaan-navbar{
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.419) 50%, rgba(0, 0, 0, 0.419) 50%), url(/CSS/hero-bg.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.419) 50%, rgba(0, 0, 0, 0.419) 50%), url(/img/hero-bg.jpg);
   height: 100vh;
   background-attachment: fixed;
   background-size: cover;
